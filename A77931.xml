@@ -1,0 +1,233 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A cordiall for the calenture and those other diseases which distempers the seamen. Or, A declaration discovering and advising how Englands sea honour may be regained, and maintained as in the happy raigne of Queene Elizabeth, of famous memory. With the saving of two hundred and fifteen thousand one hundred twenty two pounds a year, one year with the other.</title>
+            <author>Burrell, Andrewes.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77931</idno>
+            <idno type="STC">Wing B5970</idno>
+            <idno type="STC">Thomason E537_10</idno>
+            <idno type="STC">ESTC R205361</idno>
+            <idno type="EEBO-CITATION">99864763</idno>
+            <idno type="PROQUEST">99864763</idno>
+            <idno type="VID">116995</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77931)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 116995)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 83:E537[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A cordiall for the calenture and those other diseases which distempers the seamen. Or, A declaration discovering and advising how Englands sea honour may be regained, and maintained as in the happy raigne of Queene Elizabeth, of famous memory. With the saving of two hundred and fifteen thousand one hundred twenty two pounds a year, one year with the other.</title>
+                  <author>Burrell, Andrewes.</author>
+               </titleStmt>
+               <extent>[2], 13, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed in the year. 1648 [i.e. 1649]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Andrewes Burrell.</note>
+                  <note>Annotation on Thomason copy: "Jan: 5th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sea-power --  Great Britain --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  History, Naval --  Stuarts,1603-1714 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2011-04</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:116995:1" rendition="simple:additions"/>
+            <p>A CORDJALL FOR THE CALENTVRE AND Thoſe other diſeaſes which diſtempers the Seamen. OR, A DECLARATION DISCOVER<g ref="char:EOLhyphen"/>ING AND ADVISING HOW ENGLANDS <hi>SEA HONO<g ref="char:V">Ʋ</g>R</hi> May be regained, and maintained as in the happy Raigne of Queene ELIZABETH, Of famous Memory.</p>
+            <p>WITH The ſaving of Two Hundred and Fifteen Thouſand One Hundred twenty two pounds a year, one year with the other.</p>
+            <q>
+               <l>This Myrrour ſhewes you at how dear a Rate,</l>
+               <l>Selfe-love ſells publike danger to the State.</l>
+            </q>
+            <p>LONDON, Printed in the Year, 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb facs="tcp:116995:2"/>
+            <pb n="1" facs="tcp:116995:2"/>
+            <head>To that Conſpicuous, and Right Truſty Pillar, which ſupports the South Aſpect, of
+<hi>Londons</hi> Royall Exchange.</head>
+            <head type="sub">The humble Petition, or Declaration, of Andrewes Burrell, Gentleman, ſometimes a Servant; in Englands Navie.</head>
+            <opener>Sheweth,</opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hat your Orator, being conſcien<g ref="char:EOLhyphen"/>tious, of the Nationall Cove<g ref="char:EOLhyphen"/>nant, In <hi>March</hi> 1643. preſen<g ref="char:EOLhyphen"/>ted divers Parliament men, with papers intituled, <hi>Englands</hi> Out-Guard, ſurveyed, and lamented, &amp;c. A complaint then, &amp; now very ſeaſonable; yet ſo diſtaiſt<g ref="char:EOLhyphen"/>full, to ſome in the Committee of the Admiralty, that from that time to this day, your Orator hath been extreamly traduced, and hath not found, that freedom which is called, the Liberty of the
+<pb n="2" facs="tcp:116995:3"/>Subject, anſwerable to his affectionate deſires, for the peace and Safety of
+<hi>Englands</hi> Common-wealth.</p>
+            <p>The truth is, for ſpeaking of the truth, your Orator hath been extreamly ſcandalized, by thoſe which ſeeking them<g ref="char:EOLhyphen"/>ſelves, delay (and indeed betray,) the Peace of <hi>Englands</hi> Common-wealth.</p>
+            <p>However, after many cavaling meetings, before that ſuperlative Authority, your Orator was forced to publiſh thoſe expoſtulations that were agitated before them, in a ſhort Remonſtance, to the Honorable Houſe of Commons; which being diſtaſted, by the wiſe Officers of the Navie; occaſioned the Commiſſioners of the Navie, to publiſh a learned Legend, in oppoſition to thoſe truthes, which your Orator had preſented, to the Honorable Houſe of Commons.</p>
+            <p>But ſince that time, to ſhew the fulneſſe of their inte<g ref="char:EOLhyphen"/>grity to the Houſe, and their weak ſence, of <hi>Englands</hi> rot<g ref="char:EOLhyphen"/>ten Navy; The Officers of the Navy, not knowing which Built is moſt ſerviceable; That is, which Ships are nim<g ref="char:EOLhyphen"/>bleſt, I ſay, ſince that time, the Officers of the Navie, have cauſed ſeven great Frigots to be built, for the Service of the Parliament; which Frigots are ſo heavie, in regard of the ordinary Built of Frigots. That they are indeed ſeven Spaniſh Ships; But before your Orators ſurvey, The Officers of the Navie, never indeavoured to build, or ſend forth any nimble Ships, Pinnaces, or Frigots; But inſtead thereof, (at dear rates, for ſelfe-ends,) hyred Collyers, and ſome that were the worſt of Gol<g ref="char:EOLhyphen"/>lyers;<note n="*" place="margin">This Service, though ſlighted, is very Remark<g ref="char:EOLhyphen"/>able.</note> yet now, they are ſo taken with a Spaniſh Fancy, That like fan<g ref="char:EOLhyphen"/>taſticall Taylors, they indeavour, to change <hi>Englands</hi> ſluggiſh Navie, into the Spaniſh Faſhion; which in the times that are paſt, would have been a fault, of a Crimſon Colour, the truth is, they have betrayed the Kingdom, by that new device.</p>
+            <pb n="3" facs="tcp:116995:3"/>
+            <p>For in Queen <hi>Elizabeths</hi> dayes, the beſt of the Span<g ref="char:EOLhyphen"/>niſh Frigo<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, were not to be compared with the worſt Pinnace in
+<hi>Englands</hi> Royall Navie; And which is very conſiderable, The Officers of the Navie, miſleading the Maſter Shipright of the Navie, have wilfully diſa<g ref="char:EOLhyphen"/>bled thoſe Spanniſh Ships, that have been lately built, which miſchiefe your Orator did foreſee, and complained of it, in his Survey of <hi>Englands</hi> Navie, &amp;c. before they be<g ref="char:EOLhyphen"/>gan to build them.</p>
+            <p>In the ſecond Book, of <hi>Haklayths</hi> Book of voiages, Page 170. line 38. Captain
+<hi>Middleton, in a very good Saylor,</hi> That is in a nimble Pinnace, waited thre<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> dayes upon a Spanniſh Armada. <hi>Anno.</hi> 1591:
+<hi>To diſcover their Forces, and to give the Lord Thomas Howard advice of their Approach;</hi> which ſervice he per<g ref="char:EOLhyphen"/>formed faithfully, but could not have effected it, if his Ship had not been nimbler, then all thoſe Spaniſh Ships and Frigots. In the 171. page, lines 52, and 53. Captain
+<hi>Whiddon,</hi> in the Pilgrim, <hi>was hunted like a hare,</hi> by the ſame Armada; at the 15. line, of the next page, you have the number of the Hounds; In plain Engliſh, Captain
+<hi>Whiddon</hi> in the <hi>Pilgrim was hunted like a Hare</hi> by the ſame Armada; At the 15. line of the next page, you have the number of the hounds in plain <hi>Engliſh,</hi> Captain
+<hi>Whiddon</hi> in the <hi>Pilgrim</hi> was chaced, by the nimbleſt of fifty three Spaniſh Ships, and Frigots; But being nimbler then the nimbleſt of them, he eſcaped, and ſecured himſelf, by running from them.</p>
+            <p>When the <hi>French</hi> beſieged <hi>Dunkerk,</hi> the Off cers of the Navie, were offered for leſſe then Five Thouſand pounds; Seaven of the beſt Frigots, that were then be<g ref="char:EOLhyphen"/>longing to <hi>Dunkerk;</hi> which if the Officers had accep<g ref="char:EOLhyphen"/>ted (at that time) they had not only advanced, the Parliaments Service, in Treaſure, and ſtrength; but they had thereby, ſo diſabled the Malignant party, that the contemptable Iriſh, could never have appeared in <hi>Englands</hi> Seas, formidable as now.</p>
+            <pb n="4" facs="tcp:116995:4"/>
+            <p>In the 13. line and 27. page, of the Legend which was publiſhed, by the Commiſſioners of the Navie, they to excuſe their not buying of thoſe <hi>Dunkerk</hi> Frigots, tell the Parliament, that they wanted mony; but in the eight page, and 10. pages of Mr. <hi>Greenes</hi> Declaration, he confeſſeth, that from <hi>Auguſt</hi> 1642. to the begining of 1647. They did ſpend, one Million, five Hundred Twenty five Thouſand ſix Hundred and tenn pounds.</p>
+            <p>And in the 12. page, that at the printing of his De<g ref="char:EOLhyphen"/>claration, in 1647. The ſtate was, (for the ſervice of the Navie,) Two Hundred and Fifty Thouſand pounds, in debt, or thereabouts, which together is, Three Hundred Fifty five Thouſand, one Hundred Twenty pounds a year, one year with another,<note n="*" place="margin">Before thoſe ſluggiſh Ships which are com<g ref="char:EOLhyphen"/>plained of in this Pe<g ref="char:EOLhyphen"/>tition, were ſent to en<g ref="char:EOLhyphen"/>counter the Nolan<g ref="char:EOLhyphen"/>ders, Englands Navie thus maintained, and Englands Seas were better guarded for Thirty Thouſand pounds a year.</note> what ere they ſpent, they refuſed thoſe Frigots, and ſince that time, have cauſed ſeven others to be built, which inſtead of Five Thouſand, have coſt <hi>Eng<g ref="char:EOLhyphen"/>lands</hi> Common-wealth Thirty Thouſand pounds, or more mony, and which is very remarkable. Thoſe coſtly Frigots, which they have cauſed to be built, are ſo ill built, and ſo ill contrived, that they dare not keepe the ſeverall wea<g ref="char:EOLhyphen"/>thers, and cannot ſayle ſo nimbly, as the contemptable <hi>Jriſh;</hi> They have plowed with my Heifer, but they have not found out my Riddle.</p>
+            <p>In a Manuſcript, which your Orator dedicated to his Excellency, in <hi>February</hi> 1647. your Orators principle endeavour was, to demonſtrate to his Excellency, the ſluggiſh condition, of <hi>Englands</hi> rotten Navie; It being an undeniable Maxim, that if a Ship be not nimble, ſhe cannot be ſerviceable. But the Ships of <hi>Englands</hi> Navie,
+<pb n="5" facs="tcp:116995:4"/>are not nimble, therefore the Ships of <hi>Englands</hi> Navie, are not ſerviceable.</p>
+            <p>In the 19. page of their Legend, the Commiſſioners of the Navie, tell the Parliament, that no Prince in Chriſtendom, hath ſo many brave Ships, as the King<g ref="char:EOLhyphen"/>dom of <hi>England;</hi> yet after your Orator had complained of the ſluggiſh condition, of <hi>Englands,</hi> deſpicable Navie; the Officers of the Navie, did deluſively cauſe Seaven, great Frigots to be built, Carved, and Garniſhed with Gold.<note n="*" place="margin">Englands Gold is waſted, but if there were no greater waſt then that on the Fri<g ref="char:EOLhyphen"/>gots, there would not be ſo little left for honeſt men to relieve themſelves and thoſe that do depend upon them.</note> But ſlighting all their fair ſhewes, and ſpecious pretences; they abuſe <hi>Englands</hi> Common-wealth, by their counterfeit practices, and by many dangerous miſinformations, telling the Parliament, all is well when in truth all is naught.</p>
+            <p>Your Orator hath inquired with much diligence, but cannot here, that any one of the Parlia<g ref="char:EOLhyphen"/>ments new Frigots, by chaſing the inconſiderable Pyrates, hath incountred, and taken any one of them, which is ve<g ref="char:EOLhyphen"/>ry ſeazeable, if thoſe Officers which are in Authority, did underſtand the miſery of the Ship-weights Art, as well as they know how by power, to defend the falla<g ref="char:EOLhyphen"/>cies which your Orator doth complain of.</p>
+            <p>There belongeth to <hi>Waterford</hi> and <hi>Wexford,</hi> (at this preſent) foureteen Sayle of able men of Warre, which have thriven ſo well of late in their wicked Deſignes; that the Relator told Thirty three Prizes, lying by the Walles in one Harbour, (as not valuable) beſides all thoſe that were otherwiſe trifled away, by this loſſe your Readers may perceive, how unable the preſent Go<g ref="char:EOLhyphen"/>vernment is, with the expence of Three hundred Fifty five Thouſand, one hundred twenty two pounds a year, to clear <hi>Englands</hi> Seas of <hi>Irelands</hi> Pyrates.</p>
+            <pb n="6" facs="tcp:116995:5"/>
+            <p>
+               <note n="*" place="margin">The firſt page of your Orators Rem<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nſtrance, did tell the Parliament, that the Guarding of the Seas, did coſt Three hun<g ref="char:EOLhyphen"/>dred and Fifty Thouſand pounds in one year which Information was very of<g ref="char:EOLhyphen"/>fenſive to the Chairman of the Navie. But force that expoſtulation, his Worſhip hath dec<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ared that ſcandall to b pure truth and hath added five Thouſand one Hundred twenty two pounds a year one with another, unto my Report; beſides all the odd<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſhillings and pence, &amp;c.</note>In the 19. page, of their Le<g ref="char:EOLhyphen"/>gend, the Commiſſioners of the Navie, in
+<hi>Aprill</hi> 1646. tell the Parliament, That his Majeſty, had then but half a dozen men of Warre, and that the moſt of them, were of ſo ſmall Force, that they were not con<g ref="char:EOLhyphen"/>ſiderable. Since which time, by Mr. <hi>Greenes</hi> Declaration; with a proportionable allow<g ref="char:EOLhyphen"/>ance, for this preſent year 1648. There hath been one Million, threeſcore and five Thouſand, three hundred ſixty ſix pounds, ſpent to guard the Seas; that is, to reduce half a dozen inconſiderable Pyrates; but notwithſtanding that vaſt and inſupportable waſt; thoſe Pyrates are not reduced, neither are the Seas Guarded with ſtrength equivolent, to halfe the charge; or neceſſa<g ref="char:EOLhyphen"/>ry to the ſafety and honour of the Land; The preſent Government cannot reduce half a dozen inconſiderable Pyrates; They have ſuffered his Majeſties inconſiderable half dozen, to increaſe to more then a whole dozen, they have ſuffered them, to increaſe to more then a whole do<g ref="char:EOLhyphen"/>zen, of uncontroulable Pyrates, (ſome ſay to more then three dozen,) however, this is moſt certain, one of them about the midſt of <hi>February</hi> laſt, did in one day take three ſmall Ships, and one Pinnace; which together were worth, Nine Thouſand pounds, (or more mony) and which hath no Redemption; when thoſe Ships were loſt, one of them indeavouring to defend themſelves, loſt their Maſter, with one of his Mates, and five of the com<g ref="char:EOLhyphen"/>mon men.</p>
+            <pb n="7" facs="tcp:116995:5"/>
+            <p>In which conflict, beſides the loſſe of thoſe ſeaven, there were others wounded; wherefore being much weak<g ref="char:EOLhyphen"/>ned, and wounded, the Ship to leeward, and not able to ſave her ſelfe by runing they were forced to yeald; in this place, your Orator humbly moves this Query, if the preſent Government, with the expence of ten hundred, threeſcore and five thouſand three hundred ſixty ſix pounds, cannot reduce halfe a dozen inconſiderable Pyrates; in three years ſpace.<note n="*" place="margin">That famous ſervice which was performed by Queen Elizabeths Royall Navie, in the year <hi>1588.</hi> did not coſt Englands Common-wealth, threeſcore and tenn Thouſand pounds.</note> How will <hi>Englands</hi> Common-wealth be waſted, if the
+<hi>French,</hi> the <hi>Danes,</hi> the <hi>Dutch,</hi> or all of them, ſhall infeſt
+<hi>Englands</hi> Seas, or at once invade this diſtracted King<g ref="char:EOLhyphen"/>dom, I ſay, if the preſent Govern<g ref="char:EOLhyphen"/>ment, with that inſupportable ſum of Treaſure, which hath been ſpent within theſe laſt three years, cannot ſubdue and anihilate halfe a dozen inconſiderable Pyrates; what ſtrange confuſion and extream beggery will thoſe profuſe wa<g ref="char:EOLhyphen"/>ſters bring upon this already too much impoveriſhed Kingdom; if the neighboring Princes ſhould invade this Iſland, with powerfull Armadoes, that is, with Fleetes of warlike Ships.</p>
+            <p>By this diſcourſe, your Readers may perceive, how vainly the Kingdoms Treaſure, how careleſly <hi>Eng<g ref="char:EOLhyphen"/>lands</hi> Common-wealth is waſted, it is ſhamefully waſted, and which is moſt conſiderable in the times when <hi>Eng<g ref="char:EOLhyphen"/>lands</hi> Treaſure was waſted as not valuable; even then, the honour of <hi>Englands</hi> Seas was loſt, and ſhamefully loſt; And which adds to this complaint the Kingdoms ſuffer<g ref="char:EOLhyphen"/>ings, (as now,) are not only inſupportable but endleſſe; for though the Common-wealth hath payed an un<g ref="char:EOLhyphen"/>known price of Treaſure and blood, for a more then ne<g ref="char:EOLhyphen"/>ceſſary Reformation; no Reformation is, or can be ex<g ref="char:EOLhyphen"/>pected,
+<pb n="8" facs="tcp:116995:6"/>unleſſe this or ſome other Pillar which hereafter may be famous, promote this or the like complaint to thoſe Worthies, which unfainedly deſire the Kingdomes Peace; For this is moſt certaine, ſome in authority do not ſee, and ſome in Authority will not ſee, and when thoſe that are in Authority will be blind, what can be expected but confuſion, and concluſively deſolation.</p>
+            <p>Theſe great and growing miſcheifs your Orator doth ſee, and therein doth perceive the perverſe condition of Fleſh and Blood; your Orator doth plainly ſee how deſ<g ref="char:EOLhyphen"/>peratly the preſent powers do ſlight Petitions, tending to the peace and ſafety of this famous Kingdom.<note n="*" place="margin">The Petitioner com<g ref="char:EOLhyphen"/>plained firſt to the Lord high Admirall of Eng<g ref="char:EOLhyphen"/>land, to the Lord <hi>Say,</hi> to the Earl of <hi>Warwicke,</hi> to the Earle of
+<hi>Eſſex,</hi> to ſeverall members of the honorable houſe of Com<g ref="char:EOLhyphen"/>mons, to the Houſe of Commons, to Lieuten<g ref="char:EOLhyphen"/>nant Gen. <hi>Crumwell,</hi> and to his Excelency Englands Victorious Generall,</note> For theſe Rea<g ref="char:EOLhyphen"/>ſons, your Orator thinks it du<g ref="char:EOLhyphen"/>ty in him, to complaine to thee O Pillar, and would have thy Readers know, that he is ſo confident of his experience in the miſery of the Shipwrights Art, that he dares enter into any engagement, to make the greateſt halfe of thoſe old, ſlug<g ref="char:EOLhyphen"/>giſh rotten ſhips, which the Of<g ref="char:EOLhyphen"/>ficers of the Navie call
+<hi>Englands</hi> Royall Navy ſaile as ſwiftly as the leſt of the Parliaments new Friggots.</p>
+            <p>Your Orator is likewiſe willing (becauſe he knoweth how) to build a ſhip of the fourth ranck, that ſhall ſaile, about the nimbleſt of the Parliaments new Friggots.</p>
+            <p>Theſe ſervices your Orator can, and is willing to vndertake, upon the ſtrikteſt Obligations that can be invented. And if he faile to performe what he doth pro<g ref="char:EOLhyphen"/>miſe, your Orator ſhall moſt willingly, as deſervedly, vndergoe the higheſt Cenſure that may in juſtice be in<g ref="char:EOLhyphen"/>flicted upon him.</p>
+            <pb n="9" facs="tcp:116995:6"/>
+            <p>Theſe are the reall thoughts and, earneſt deſires of your humble Orator, who by his owne Propoſalls, ex<g ref="char:EOLhyphen"/>pects no particular Emolument untill he hath performed the intended Services; And then caſt himſelf at the feete of thoſe Worthies, which ſhall effectually promote this humble Petition.</p>
+            <p>But paſſing theſe thoughts, give your Orator leave once more to tell your Readers, the ſhips of Englands Navy are ſluggiſh, and therefore unſerviceable.</p>
+            <p>
+               <note n="*" place="margin">Se<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the <hi>12.</hi> page of a Iornall publiſht by <hi>Iohn Denton</hi> Mini<g ref="char:EOLhyphen"/>ſter in the Admirall of the Silly Fleet, <hi>Anno. 1637.</hi> being the beſt ſervice that any part of Englands Navy hath performed this <hi>46.</hi> yeares.</note> The Captains and Marriners are generally diſcouraged, and the Common Seamen ſo disheartned, and diſcontented for want of their thirds, and full allowance of wholſome dyet, the lumps of fat which grow in the ſhouldiers and codds of the Oxen, with many chines and choice peices of the b<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt Beefe and Porke, ſeruptitiouſly expoſed to ſale and trifled away in bribes, to the quantity of three Oxen in every Twenty ſix Oxen, (little more or leſſe) beſides all that which is ſtollen and fool'd away in pretended fees.</p>
+            <p>By which extream abuſes, the Seamen are not only ſhortned of their juſt allowance of Beefe and Porke, but they are deprived of their Brewis; which to many (e<g ref="char:EOLhyphen"/>ſpecially to thoſe that are ancient) was as good as their Beefe, (eſpecially in a long voyage.)</p>
+            <p>
+               <note n="*" place="margin">When twenty ſhillings is due to each Seaman for his third, ſome ſhipps companies have received but tenne ſhillings, others not halfe ſo much, ſome not a pen<g ref="char:EOLhyphen"/>ny for a pound. In Queen <hi>Elizabeths</hi> dayes every Seaman was allowed one pound of Beefe for every Beefe meale, and fat for his Brewis, but ſince this bleſſed reformation foure men are allowed but three pounds of beef and many times not ſo much.</note>They are alſo much disheartned for want of due in<g ref="char:EOLhyphen"/>couragment, when they performe extraordinary ſervices. I ſay and will averre it, the Seamen are ſo diſcoura<g ref="char:EOLhyphen"/>ged, that no good ſervice can be expected or perfor<g ref="char:EOLunhyphen"/>med though the Shipps Pinniſſes, and Friggots were as ſerviceable, as they ought to be. And theſe
+<pb n="10" facs="tcp:116995:7"/>theſe are the true cauſes why the Seamen revolt, and oppoſe the preſent Government.</p>
+            <p>In the Remonſtrance which your Orator did preſent unto the Honorable Houſe of Com<g ref="char:EOLhyphen"/>mons, in
+<hi>May</hi> 1646. your O<g ref="char:EOLhyphen"/>rator did compaire Englands ſlugiſh Navy to Englands lazy horſes, which in Englands peace<g ref="char:EOLhyphen"/>full daies were wantonly fed in the Mews near Charing-croſs.</p>
+            <p>And heare without offence give me leave to aske you Rea<g ref="char:EOLhyphen"/>ders, what good ſervice they can expect from the beſt troop of horſe now in England, if the ryders be unskilfull, cowards, or unwilling to ſerve.</p>
+            <p>I ſay if the Ships, Pinnaces, and Frigots, which now ſpend three hundred fifty five thouſand, one hundred twenty pounds a year; were as nimble as Art and In<g ref="char:EOLhyphen"/>duſtry can make them, if they were as nimble as they ought to be: There is ſo much diſcontent, wilfully, and perniciouſly, inforced upon the Seamen; that no good ſer<g ref="char:EOLhyphen"/>vice can be expected from them, untill the faults which your Orator hath complained off, be mended.<note n="*" place="margin">This Declaration hath been extant in a Manuſcript above ſix months, and doth now prove it ſelfe by the Seamens Re<g ref="char:EOLhyphen"/>volting from the Par<g ref="char:EOLhyphen"/>liament.</note>
+            </p>
+            <p>Tis thus, and they that make it thus, in your Orators opinion, deſerve to be underſtood, and re<g ref="char:EOLhyphen"/>warded accordingly.</p>
+            <p>Your Orator, doth wiſh that your Readers would ſeriouſly con<g ref="char:EOLhyphen"/>ſider theſe truthes, theſe great and ſerious complaints, whicvh at this time, are obſcured by divers malignant Petitions, lately exhi<g ref="char:EOLhyphen"/>bited
+<pb n="11" facs="tcp:116995:7"/>to the Honourable Houſe of Commons; your Orator doth wiſh, that by your care and providence, you would occaſion a Reformation, in <hi>Englands</hi> almoſt loſt Navie; occaſion it before it fall into a more contempta<g ref="char:EOLhyphen"/>ble condition, before it fall into a loſt condition paſt recovery.</p>
+            <p>To ſtop this iſſue, which doth waſt a great part of <hi>Englands</hi> life blood; and to recover <hi>Englands</hi> Sea ho<g ref="char:EOLhyphen"/>nour, your Orator hath prepared a deſign, which hath in it a full Sea, and fayre Gayle of Honour and Re<g ref="char:EOLhyphen"/>nown, for thoſe that ſhall cheriſh and promote it, it is able to bear up and carry on, a reall Reformation, in <hi>Englands</hi> deſpicable Navie; by promoting it, your wel-affected friends may glad the hearts of all the honeſt Seamen in
+<hi>England,</hi> which at this time, are not Re<g ref="char:EOLhyphen"/>volted from the Parliament; (I am afraid I may ſay, from the King and Parliament;) They will have the prayers of all the honeſt Land-men in
+<hi>England,</hi> they may recover <hi>Englands</hi> Sea-honour; they may ſupport and highly advance their own Reputations, and they may ſave <hi>Englands</hi> Common-wealth two hundred and fifteen thouſand, one hundred twenty two pounds every year.</p>
+            <p>Theſe Inducements, your humble Orator preſents un<g ref="char:EOLhyphen"/>to the view, and moſt ſerious conſideration of all your wel-affected Merchants and Seamen; as moſt conſide<g ref="char:EOLhyphen"/>rable, and more then neceſſary.</p>
+            <div type="body_of_petition">
+               <pb n="12" facs="tcp:116995:8"/>
+               <opener>Humbly deſiring,</opener>
+               <p>That in regard this Petition con<g ref="char:EOLhyphen"/>cernes not only the Trade of this Ho<g ref="char:EOLhyphen"/>norable City by Sea; but the peace and ſafety of the whole Kingdom: This remarkable Pillar, according to the Truſt repoſed on it, will be plea<g ref="char:EOLhyphen"/>ſed to hold forth; and preſent unto all the wel-affected, this humble Petition or Declaration, intended principally for their good, and for the good of
+<hi>Englands</hi> Common wealth, timely moving them to conſider, the many miſchiefes which may ſuddenly fall upon this Renowned City, and the
+<pb n="13" facs="tcp:116995:8"/>whole Kingdom; If <hi>Englands</hi> Seas be no better Guarded, and the Re<g ref="char:EOLhyphen"/>volted Ships by force, reduced to the preſent Government.</p>
+               <closer>And as in Duty bound, &amp;c.</closer>
+               <epigraph>
+                  <q>
+                     <l>How bould, how mad, how deſperate is the Treaſon,</l>
+                     <l>That ſligts all faithfull Councell, Truth and Reaſon.</l>
+                  </q>
+               </epigraph>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
